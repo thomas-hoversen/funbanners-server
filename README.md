@@ -1,2 +1,2 @@
 # funbanners-server
-Server code for funbanners app.
+src folder and pom.xml for the funbanners server code. 
